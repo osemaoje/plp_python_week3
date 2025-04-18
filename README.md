@@ -12,15 +12,23 @@ Python (for logic and implementation)
 
 Installation
 Clone this repository:
-''' bash
+
+```bash
 git clone https://github.com/osemaoje/plp_python_week3.git
-'''
+```
 
 Install dependencies (if applicable):
+
+```bash
 pip install -r requirements.txt
+```
+
 
 Run the application:
-python main.py
+```bash
+py main.py
+```
+
 
 
 
