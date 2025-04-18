@@ -12,7 +12,7 @@ Python (for logic and implementation)
 
 Installation
 Clone this repository:
-'''
+''' bash
 git clone https://github.com/osemaoje/plp_python_week3.git
 '''
 
