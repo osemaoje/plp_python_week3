@@ -1,4 +1,4 @@
-### Power Learn Project - Software Engineering Scholarship Week 3 Assignment
+### Power Learn Project - Software Engineering Scholarship Week 3 - 5 Assignment
 Overview
 This repository contains the solution for the Power Learn Software Engineering Scholarship Week 3 Assignment. The project demonstrates the application of key software engineering principles and tools in Python, focusing on developing efficient and functional solutions to real-world challenges.
 
